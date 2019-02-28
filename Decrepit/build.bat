@@ -1,1 +1,1 @@
-cls && g++ decrepitcode.cpp -ICSC2110
+cls && g++ decrepitLegacyCode.cpp -ICSC2110
