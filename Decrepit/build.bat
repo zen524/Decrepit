@@ -1,0 +1,1 @@
+cls && g++ decrepitcode.cpp -ICSC2110
